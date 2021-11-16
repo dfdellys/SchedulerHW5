@@ -7,5 +7,4 @@ I created a simple calendar application that allows a user to save events for ea
 You can deploy here: https://dfdellys.github.io/Work-Day-Scheduler/
 
 
-
-![Screenshot (12)](https://user-images.githubusercontent.com/73720274/137256119-7ba836da-c797-421d-864c-6a5565a7361c.png)
+![schedule](https://user-images.githubusercontent.com/73720274/141908262-eccda080-753d-4f5b-bc12-d30079fa53e6.png)
